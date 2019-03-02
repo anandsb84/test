@@ -4,3 +4,4 @@ c=(a+b)/a;
 d=c/20;
 e=c*d;
 f=d+e;
+++g=a*b*c;
